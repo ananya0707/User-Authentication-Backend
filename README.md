@@ -64,8 +64,8 @@ This authentication system is designed for real-world scalability, security, and
 
 ## 📁 Folder Structure
 
-├── automation/ 
-│ └── removeUnverifiedAccounts.js
+├── automation/ \n
+│ └── removeUnverifiedAccounts.js \n
 ├── controllers/ 
 │ └── userController.js 
 ├── database/ 
